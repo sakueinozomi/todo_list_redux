@@ -11,7 +11,7 @@ const todoList = [
   },
   {
     item: 'todo2',
-    done: false,
+    done: true,
     id: 234234677554
   },
 ]
